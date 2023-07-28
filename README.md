@@ -9,15 +9,15 @@ untar <filename>
 
 ## Supported Extensions
 - `.tar`
-- `.gz`
-- `.tgz`
-- `.taz`
-- `.bz2`
-- `.tz2`
-- `.tbz2`
-- `.tbz`
-- `.xz`
-- `.zst`
-- `.tzst`
-- `.lzma`
-- `.tlz`
+- `.tar.gz`
+- `.tar.tgz`
+- `.tar.taz`
+- `.tar.bz2`
+- `.tar.tz2`
+- `.tar.tbz2`
+- `.tar.tbz`
+- `.tar.xz`
+- `.tar.zst`
+- `.tar.tzst`
+- `.tar.lzma`
+- `.tar.tlz`
