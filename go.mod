@@ -1,4 +1,4 @@
-module untar
+module unar
 
 go 1.20
 
